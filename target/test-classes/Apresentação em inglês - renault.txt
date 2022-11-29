@@ -1,0 +1,44 @@
+good morning for everyone, first i would like to thank you for this opportunity
+My name is Murillo Lopes and i work at the cvu plant at the body shop as an automation technician
+and today i'm going to present you one of the improvements that we have done in this month
+the title of this improvement is transporter's production rebalance
+
+issue explanation:
+
+on the above image we can see a little explanation of the problem
+on the left transporter we had a piece present, but on the right transporter we didn't have a piece...
+providing unbalance in our production line, and the operators couldn't continuing the proccess in the next equipament
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+solution proposed:
+
+on the above left image we can see the pieces synchronized at the transporters, so the operators can pick up the pieces
+and assemble in the next equipament F0, without any loss at the production!
+
+on the right image we can see the screen created in odil with two buttons
+these buttons were created to set the transporter's priority 
+the d1 button is to set the priority on the left transporter
+and the d2 button is to set the priority on the right transporter
+so the supervisor or the senior operartor can decide whats is the priority in that zone, improving our efficiency everyday!
+thank you!
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+probably questions:
+
+1)lack of pieces
+the main causes of this lack of pieces are the breaks in the equipament and the problems inside production like the number of 
+operators present or logistics problems
+
+2) why five minutes of gain?
+because it's the equipament's cycle, and it's about five minutes...so if we don't have the pieces synchronized at the 
+transporters we loss a cycle in the next equipament wich is 5 minutes
+
+3)What made you do this improvement?
+i made this improvement because i work at this production's line everyday and i saw a lot of problem inside this zone and also because
+we were losing to much time, that's why i created this improvement to improve our production and our efficiency
+
