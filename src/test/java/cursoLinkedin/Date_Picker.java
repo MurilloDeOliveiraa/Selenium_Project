@@ -18,8 +18,8 @@ public class Date_Picker {
 
 		WebElement date_field = driver.findElement(By.id("datepicker"));
 		date_field.sendKeys("29/11/2022");
-		date_field.sendKeys(Keys.RETURN);  //simula o aperto da tecla return(enter)
-
+		date_field.sendKeys(Keys.RETURN);  //simula o aperto da tecla return("enter" no meu teclado)
+		
 	}
 
 }

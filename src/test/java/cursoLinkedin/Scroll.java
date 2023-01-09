@@ -12,7 +12,7 @@ public class Scroll {
 
 	public static void main(String[] args) {
 		
-		System.setProperty("webdriver.chrome.driver", "C://WebDrivers/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "C://WebDrivers/chromedriver.exe");
 
 		driver.get("https://formy-project.herokuapp.com/scroll");
 		driver.manage().window().maximize();

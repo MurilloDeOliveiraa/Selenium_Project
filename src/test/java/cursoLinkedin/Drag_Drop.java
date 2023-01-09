@@ -8,8 +8,8 @@ import org.openqa.selenium.interactions.Actions;
 
 public class Drag_Drop {
 
-	public static void main(String[] args) {
-System.setProperty("webdriver.chrome.driver", "C://WebDrivers/chromedriver.exe");
+	public static void main(String[] args) throws InterruptedException {
+		System.setProperty("webdriver.chrome.driver", "C://WebDrivers/chromedriver.exe");
 		
 		WebDriver driver = new ChromeDriver();
 		
@@ -20,7 +20,10 @@ System.setProperty("webdriver.chrome.driver", "C://WebDrivers/chromedriver.exe")
 		WebElement box = driver.findElement(By.id("box"));
 		
 		Actions actions = new Actions(driver);
+		Thread.sleep(2000);
 		actions.dragAndDrop(image, box).build().perform();
+		
+		
 
 	}
 
